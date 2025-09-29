@@ -7,7 +7,7 @@ from geneticalgorithm2 import AlgorithmParams
 from geneticalgorithm2 import GeneticAlgorithm2 as ga
 
 import matplotlib.pyplot as plt
-from matplotlib.ticker import MaxNLocator, LinearLocator, FormatStrFormatter
+from matplotlib.ticker import MaxNLocator, LinearLocator
 from mpl_toolkits.mplot3d import Axes3D
 
 def plot_function(
