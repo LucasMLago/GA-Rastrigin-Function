@@ -59,3 +59,9 @@ Generated outputs include:
 - GA convergence plots (linear and logarithmic scales).
 - Comparison plots between GA, Random Search, and Gradient Descent.
 - Results saved in `output/ga_results.csv`.
+
+## Reference
+
+[1] https://github.com/PasaOpasen/geneticalgorithm2/tree/main
+
+[2] https://github.com/PasaOpasen/OptimizationTestFunctions
